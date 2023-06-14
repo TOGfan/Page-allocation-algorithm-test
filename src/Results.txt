@@ -1,0 +1,27 @@
+Global page replacement with FIFO page faults: 4437
+Global page replacement with OPT page faults: 3424
+Global page replacement with FIFO page faults: 4396
+Global page replacement with FIFO page faults: 4439
+Global page replacement with FIFO page faults: 4553
+Simulation of local page replacement:
+equal FIFO page faults: 4669
+equal OPT page faults: 3406
+equal LRU page faults: 4639
+equal ARLU page faults: 4669
+equal RAND page faults: 4783
+proportional FIFO page faults: 4669
+proportional OPT page faults: 3341
+proportional LRU page faults: 4585
+proportional ARLU page faults: 4599
+proportional RAND page faults: 4711
+random FIFO page faults: 4688
+random OPT page faults: 3468
+random LRU page faults: 4680
+random ARLU page faults: 4687
+random RAND page faults: 4824
+PFF FIFO page faults: 4587
+PFF OPT page faults: 4149
+PFF LRU page faults: 5164
+PFF ALRU page faults: 4607
+PFF RAND page faults: 4713
+Working Set page faults: 4648
